@@ -1,34 +1,33 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# MASTERMIND GAME
+*[Tatiana MARTINEZ & Marie NAVARRO]*
 
-*[Your Cohort, Campus & Date]*
+*[IRONHACK Bootcamp DATA ANALYSE August 2020]*
 
-## Content
-- [Project Description](#project-description)
-- [Rules](#rules)
-- [Workflow](#workflow)
-- [Organization](#organization)
-- [Links](#links)
+## Project Week 1 - Coding our proper verison of mastermind
+
+In this repository, there are : 
+- our presentation Power-Point file
+- a picture of our project plan
+- our code
+- enjoy playing the game !
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about what what you chose to build and why. 
+Using basics python ressources we learnt in this first week, we worked remotely to create a mastermind game.
+This software is able to take an input from the user and provide an output.
 
 ## Rules
-Describe briefly the rules of the game you chose. 
+It’s a one player game.The computer generates a random secret code. The player has to guess it in limited rounds.
+In the original game, the code is composed by colored balls we replaced by numbers. 
+To increase the difficulty, it possible to modify numbers of digits, colors and/or rounds.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+We plan our project on Trello, where we wrote the pseudocode.
 
 ## Organization
-How did you organize your work? Did you use any tools like a trello or kanban board?
-
-What does your repository look like? Explain your folder and file structure.
+We got inspired from our courses and from code existing on internet and we improved it our way.
 
 ## Links
-Include links to your repository, slides and trello/kanban board. Feel free to include any other links associated with your project. 
-
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository]https://github.com/MarieNav/Mastermind
+[Trello]https://trello.com/b/RKHRequB/mastermind-code-project 
