@@ -11,7 +11,7 @@ In this repository, there are :
 - our presentation Power-Point file
 - a picture of our project plan
 - our code
-- enjoy playing the game !
+--> enjoy playing the game !
 
 ## Project Description
 Using basics python ressources we learnt in this first week, we worked remotely to create a mastermind game.
